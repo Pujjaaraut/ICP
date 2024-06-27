@@ -1,0 +1,11 @@
+git commands
+
+git status - showing git status
+
+git init- repo initialize karna( initialize new repo)
+          naya 
+
+git add index.html- adding file
+
+git commit -m "heading added" - for msg
+
