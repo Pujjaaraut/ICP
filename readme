@@ -8,4 +8,15 @@ git add<file name> / git add .
 
 git commit -m "chnged"
 
-git push
+
+# Branch 
+
+git Branch - to check Branch
+
+git Branch -M main - to rename branch 
+
+git checkout <branch name> - to navigate
+
+git checkout -b <new branch name>- to create new branch 
+
+git branch -d <branch name> - to delete branch
